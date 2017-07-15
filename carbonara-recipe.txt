@@ -1,0 +1,15 @@
+Ingredients:
+	- 2 eggs
+	- bacon cubes
+	- grana
+	- black pepper
+	- spaghetti
+
+Directions:
+	1. Put the spaghetti on salted boiling water.
+	2. Cook the bacon in a small pan.
+	3. Mix the two eggs for a minute until you get yellow-like liquid.
+	4. When the spaghetti is ready, take out the water and put the spaghetti back on the hot pot, now without water.
+	5. Put all of the other ingredients in the pot with the spaghetti.
+	6. Mix until all the ingredients are uniformly distributed.
+	7. Serve hot.
